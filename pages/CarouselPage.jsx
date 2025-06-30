@@ -98,13 +98,23 @@ const CarouselPage = () => {
     <>
       <div
         className={`text-[20vw] sm:text-[8vw] relative z-10 font-antonio text-center bg-black text-white`}
-        style={{ backgroundImage: `url('https://res.cloudinary.com/dfvf4xowl/image/upload/v1750748547/event_n8qwxn_hsmjg7.png')` }}
+        style={{ 
+          backgroundImage: `url('https://res.cloudinary.com/dfvf4xowl/image/upload/v1750748547/event_n8qwxn_hsmjg7.png')`,
+          backgroundSize: 'cover',
+          backgroundPosition: 'center',
+          backgroundRepeat: 'no-repeat'
+        }}
       >
         GALLERY{" "}
       </div>
       <div
-        className="relative w-full h-[480px] sm:h-[640px] flex items-center justify-center bg-gray-900"
-        style={{ backgroundImage: `url('https://res.cloudinary.com/dfvf4xowl/image/upload/v1750748547/event_n8qwxn_hsmjg7.png')` }}
+        className="relative h-[480px] sm:h-[640px] w-full flex items-center justify-center bg-gray-900"
+        style={{ 
+          backgroundImage: `url('https://res.cloudinary.com/dfvf4xowl/image/upload/v1750748547/event_n8qwxn_hsmjg7.png')`,
+          backgroundSize: 'cover',
+          backgroundPosition: 'center',
+          backgroundRepeat: 'no-repeat'
+        }}
       >
         <div
           className="relative w-[90%] m-2 h-96 lg:h-[620px] overflow-hidden shadow-lg rounded-lg"
