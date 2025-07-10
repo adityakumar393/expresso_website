@@ -192,6 +192,7 @@ const teamData = {
       },
     ],
   },
+  
   art: {
     teamName: "Art",
     teamImage: "https://res.cloudinary.com/dfvf4xowl/image/upload/v1750748461/ART_ar8boc_jyroil.png",
@@ -502,15 +503,16 @@ const teamData = {
       },
       {
         id: 28,
-        name: "Harsh Raj",
+        name: "TABASSUM BANERJEE",
         position: "",
         image:
-          "",
+          "https://res.cloudinary.com/dfvf4xowl/image/upload/v1751964184/WhatsApp_Image_2025-03-23_at_18.25.46_c4a1089d_-_TABASSUM_BANERJEE_ezhdpr.jpg",
         branch: "ARCH-29",
-        instagram: "https://www.instagram.com/artbyharshraj?igsh=dHJid2F4NmRyM2Q5",
+        instagram: "https://www.instagram.com/warmth_n_hues?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
         linkedin:
-          "https://www.linkedin.com/in/harsh-raj-04241b310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
-        twitter: "https://x.com/harshraj1904?t=byUtWT04chap6iro6j4a_A&s=09",
+          "http://www.linkedin.com/in/tabassum-banerjee-22baa9281",
+        twitter: "https://x.com/bluemariano2505",
+
       },
       {
         id: 29,
@@ -615,19 +617,6 @@ const teamData = {
           "https://www.linkedin.com/in/piyush-kumar-440690317/",
         twitter: "https://x.com/Piyush_62052",
       },
-      {
-        id: 37,
-        name: "TABASSUM BANERJEE",
-        position: "",
-        image:
-          "https://res.cloudinary.com/dfvf4xowl/image/upload/v1751964184/WhatsApp_Image_2025-03-23_at_18.25.46_c4a1089d_-_TABASSUM_BANERJEE_ezhdpr.jpg",
-        branch: "ARCH-29",
-        instagram: "https://www.instagram.com/warmth_n_hues?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==",
-        linkedin:
-          "http://www.linkedin.com/in/tabassum-banerjee-22baa9281",
-        twitter: "https://x.com/bluemariano2505",
-      },
-
     ]
   },
 
@@ -919,7 +908,7 @@ const teamData = {
         twitter: "https://x.com/karastaani?t=G19QsQh5P8Wi4LZvZ5IIyQ&s=09",
       },
     ],
-  },   
+  },
   literature_4: {
     teamName: "Literary",
     teamImage: "https://res.cloudinary.com/dfvf4xowl/image/upload/v1750748380/Pen_l0l8t5_ot13ni.png",
@@ -1015,7 +1004,6 @@ const teamData = {
       },
     ],
   },
-
   literature_5: {
     teamName: "Literary",
     teamImage: "https://res.cloudinary.com/dfvf4xowl/image/upload/v1750748380/Pen_l0l8t5_ot13ni.png",
@@ -1056,7 +1044,6 @@ const teamData = {
 
     ],
   },
-
 
   website: {
     teamName: "Web",
@@ -1265,7 +1252,7 @@ const teamData = {
 
     ],
   },
- website_3: {
+  website_3: {
     teamName: "Web",
     teamImage: "https://res.cloudinary.com/dfvf4xowl/image/upload/v1750748350/office_cosnl8_q5gmdc.png",
     members: [
@@ -1281,7 +1268,7 @@ const teamData = {
         linkedin: "https://www.linkedin.com/in/khushbu-kumari-571147304?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
         twitter: "",
       },
-     
+
 
 
     ],
