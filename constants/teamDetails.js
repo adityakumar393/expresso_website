@@ -192,7 +192,7 @@ const teamData = {
       },
     ],
   },
-  
+
   art: {
     teamName: "Art",
     teamImage: "https://res.cloudinary.com/dfvf4xowl/image/upload/v1750748461/ART_ar8boc_jyroil.png",
@@ -720,7 +720,7 @@ const teamData = {
   },
   literature_2: {
     teamName: "Literary",
-    teamImage: "/Pen.png",
+    teamImage: "https://res.cloudinary.com/dfvf4xowl/image/upload/v1750748380/Pen_l0l8t5_ot13ni.png",
     members: [
       {
         id: 9,
